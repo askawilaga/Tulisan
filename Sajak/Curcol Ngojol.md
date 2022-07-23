@@ -1,12 +1,12 @@
 ---
 author: "Aska Wilaga"
-full title: "Curcol Gojek"
+full title: "Curcol Ngojol"
 tags:
 - Sajak
 date: 2015-08-05
 ---
 
-# Curcol Gojek
+# Curcol Ngojol
 
 Salah apa ogut jek?
 baru sehari ngojek  
@@ -20,7 +20,7 @@ bukan cari lawan
 Salah apa ogut jek?
 padahal sama-sama ngojek  
 Penumpang pada dihasut,
-jangan mau gojek yang jemput  
+jangan mau ojol yang jemput  
 Disuruh ikut join gak mau,
 tapi kitanya dihina mulu  
 Sama-sama cari makan,

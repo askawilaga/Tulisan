@@ -3,7 +3,7 @@ _Butuh **[Obsidian.md](https://obsidian.md/)** dengan plugin **[Dataview](https:
 # Sajak
 ```dataview
 List author
-From #Sajak
+From "Sajak"
 SORT date DESC
 ```
 
@@ -12,7 +12,7 @@ SORT date DESC
 # Renungan
 ```dataview
 List author
-From #Renungan
+From "Renungan"
 SORT date DESC
 ```
 
@@ -21,6 +21,6 @@ SORT date DESC
 # Cerpen
 ```dataview
 List author
-From #Cerpen
+From "Cerpen"
 SORT date DESC
 ```

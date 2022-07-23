@@ -23,4 +23,4 @@ Kerah baju gue lantas di tariknya. Dan gue dikelilingi teman-temannya.
 Mata gue menatap dia tajam sambil berkata “Punk itu bukan karena gue punya tanda atau gak. Punk itu disini.” Sekarang telunjuk gue yang berani menunjuk dadanya.  
 “Gue sama kaya lo bang. Sama-sama punya punk di hati.”  
 Gue melihat perubahan air mukanya. Genggaman di kerah gue perlahan mengundur lalu dilepasnya.  
-“Pergi lo dari sini. Jangan pernah lo liat lagi lo di daerah sini.” Gue menatap dia lama lalu berlalu.
+“Pergi lo dari sini. Jangan pernah gue liat lagi lo di daerah sini.” Gue menatap dia lama lalu berlalu.
