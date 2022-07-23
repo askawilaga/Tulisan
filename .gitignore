@@ -6,3 +6,6 @@
 *.epub
 *.tex
 *.opml
+
+.obsidian/workspace
+.obsidian/graph.json
