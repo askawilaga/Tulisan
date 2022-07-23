@@ -1,0 +1,35 @@
+*.doc           diff=astextplain -text
+*.DOC           diff=astextplain -text
+*.docx          diff=astextplain -text
+*.DOCX          diff=astextplain -text
+*.dot           diff=astextplain -text
+*.DOT           diff=astextplain -text
+*.pdf           diff=astextplain -text
+*.PDF           diff=astextplain -text
+*.rtf           diff=astextplain -text
+*.RTF           diff=astextplain -text
+*.odt           diff=astextplain -text
+*.epub          diff=astextplain -text
+*.tex           -text
+*.opml          -text
+*.html          -text
+*.txt           -text
+*.md            -text
+*.adoc          -text
+*.textile       -text
+*.mustache      -text
+*.csv           -text
+*.tab           -text
+*.tsv           -text
+*.gitattributes -text
+.gitattributes  -text
+.gitignore      -text
+*.png           binary
+*.jpg           binary
+*.jpeg          binary
+*.gif           binary
+*.tif           binary
+*.tiff          binary
+*.ico           binary
+*.svg           binary
+*.eps           binary
