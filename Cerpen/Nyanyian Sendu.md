@@ -27,6 +27,6 @@ _Tak ada yang bisa menggantikan dirimu
 Tak ada yang bisa membuat diriku  
 Jauh darimu_
 
-_\*
+_\*_
 
 > Lirik adalah milik penciptanya, bukan milik penulis.

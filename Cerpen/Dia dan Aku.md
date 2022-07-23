@@ -140,6 +140,6 @@ _Aku cukup lihat dia dari sudut sini saja_
 _Dan aku sudah bahagia seperti ini_  
 _Dan dia sudah sempurna_
 
-_\*
+_\*_
 
 > Lirik adalah milik penciptanya, bukan milik penulis.

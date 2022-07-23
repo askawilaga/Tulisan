@@ -1,4 +1,4 @@
-_Butuh **[Obsidian](https://obsidian.md/)** dengan plugin **[Dataview](https://github.com/blacksmithgu/obsidian-dataview)** dan theme **[Things.](https://github.com/colineckert/obsidian-things)** untuk melihat tulisan terformat._
+_Butuh **[Obsidian.md](https://obsidian.md/)** dengan plugin **[Dataview](https://github.com/blacksmithgu/obsidian-dataview)** dan theme **[Things](https://github.com/colineckert/obsidian-things)** untuk melihat tulisan terformat._
 
 # Sajak
 ```dataview

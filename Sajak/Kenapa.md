@@ -1,12 +1,12 @@
 ---
 author: "Aska Wilaga"
-full title: "Kenapa"
+full title: "Kenapa?"
 tags:
 - Sajak
 date: 2015-05-12
 ---
 
-# Kenapa
+# Kenapa?
 
 muak menyeruak  
 ah sudahlah mari berhenti sejenak  
