@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "ed5a8554007b60e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a29b1294d5e48da",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbaa7028faba85fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e6000cbe6ac7ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93bf8c79192a971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2a4f658b189523a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "554ffe9ca9aba0c4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "a3cfa1c7d630b903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15407605dd2e732f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "46a8d18f287c9ade",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a29b1294d5e48da",
+  "lastOpenFiles": [
+    "README.md",
+    "Cerpen/Tanpa Judul 1.md",
+    "Sajak/Meriah.md",
+    "Sajak/Perasaan Pertama Bertemu — Daoko.md",
+    "Sajak/Tergenggam erat rinduku padamu.md",
+    "Sajak/Sing me to sleep.md",
+    "Cerpen/Nyanyian Sendu.md",
+    "Cerpen/Dia dan Aku.md",
+    "Sajak/Hey.md",
+    "Sajak/Puan.md"
+  ]
+}
