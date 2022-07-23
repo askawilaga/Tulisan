@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Kemudian Hening"
 tags:
 - Cerpen
-date: 2015-10-21
+date: 2014-12-02
 ---
 
 # Kemudian Hening

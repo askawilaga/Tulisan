@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Rumah Sakit"
 tags:
 - Sajak
-date: 2014-11-07
+date: 2014-11-01
 ---
 
 # Rumah Sakit

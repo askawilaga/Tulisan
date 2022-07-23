@@ -8,6 +8,7 @@ date: 2015-04-08
 
 # Kodok, jangkrik, burung hantu, dan gue
 
+1/
 krok krok  
 apa dok?  
 jongkok jongkok jangan lupa cebok
@@ -20,6 +21,7 @@ krok krok
 apa dok?  
 mau gue getok sendok?
 
+2/
 krik krik  
 apa krik?  
 iya gue sirik doi lagi jalan sama si jabrik
@@ -32,6 +34,7 @@ krik krik
 apa krik?  
 gue suka doi karena anaknya asik lagi cantik
 
+3/
 wuu wuu  
 apa lo ntu?  
 kalo gak ngerti jangan wa wu wa wu
@@ -44,6 +47,7 @@ wuu wuu
 apa lo ntu?  
 ah gue cuma kutu buku tak pintar bikin lagu
 
+4/
 krok krok  
 apa dok?  
 iya dia simpel tak berlebihan jalan saja tak melenggok

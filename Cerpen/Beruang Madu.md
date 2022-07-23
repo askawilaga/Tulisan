@@ -3,7 +3,8 @@ author: "Aska Wilaga"
 full title: "Beruang Madu"
 tags:
 - Cerpen
-date: 2014-11-07
+- Berdiksi
+date: 2014-11-02
 ---
 
 # Beruang Madu

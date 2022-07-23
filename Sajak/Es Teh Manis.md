@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Es Teh Manis"
 tags:
 - Sajak
-date: 2014-11-07
+date: 2014-11-06
 ---
 
 # Es Teh Manis

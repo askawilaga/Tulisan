@@ -3,7 +3,8 @@ author: "Aska Wilaga"
 full title: "Sel Darah Putih"
 tags:
 - Cerpen
-date: 2014-11-07
+- FinalFantasy
+date: 2014-10-30
 ---
 
 # Sel Darah Putih

@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Hampa"
 tags:
 - Cerpen
-date: 2015-07-07
+date: 2015-05-22
 ---
 
 # Hampa

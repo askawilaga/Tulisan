@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "In-Control"
 tags:
 - Renungan
-date: 2014-06-18
+date: 2014-06-04
 ---
 
 # In-Control

@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Cerita Dongeng"
 tags:
 - Renungan
-date: 2013-11-26
+date: 2013-11-24
 ---
 
 # Cerita Dongeng

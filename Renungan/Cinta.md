@@ -3,6 +3,7 @@ author: "Aska Wilaga"
 full title: "Cinta"
 tags:
 - Renungan
+- Berdiksi
 date: 2016-01-08
 ---
 

@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Ucapan"
 tags:
 - Renungan
-date: 2014-05-26
+date: 2014-05-16
 ---
 
 # Ucapan

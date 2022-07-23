@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Kopi pagi hari"
 tags:
 - Sajak
-date: 2015-05-28
+date: 2015-05-27
 ---
 
 # Kopi pagi hari

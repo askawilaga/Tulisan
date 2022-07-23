@@ -3,7 +3,7 @@ author: "Aska Wilaga"
 full title: "Dia dan Aku"
 tags:
 - Cerpen
-date: 2014-09-03
+date: 2014-07-06
 ---
 
 # Dia dan Aku
