@@ -15,4 +15,4 @@ selimutimu dengan hangatku
 akulah sang api  
 kaukah sang air?  
 dinginkan risauku  
-saatku membakar, dekap aku erat.
+saatku membakar, dekap aku erat

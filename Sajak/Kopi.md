@@ -8,5 +8,5 @@ date: 2016-06-19
 
 # Kopi
 
-sebercak kopi menjejak kemeja
+sebercak kopi menjejak kemeja  
 sebercak harum menjejak ingatan

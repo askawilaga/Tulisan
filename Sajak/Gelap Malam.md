@@ -12,5 +12,5 @@ malam tak selalu hampa
 gelap bisa bercerita  
 di sudut kelam terdengar nyanyian  
 di waktu malam tersirat harapan  
-jadilah gelap malam yang swlalu menjaga  
+jadilah gelap malam yang selalu menjaga  
 yang menyayikan harapan semua

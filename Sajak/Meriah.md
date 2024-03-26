@@ -13,7 +13,7 @@ date: 2022-07-23
 
 ![Jeoffrey Magellan](https://64.media.tumblr.com/7b88ac28ce000fafff5bea76b8a7a7ca/tumblr_op37zvWldX1tht66io1_1280.jpg)
 
-Meriah tapi senyap
+Meriah tapi senyap  
 Memandang lewat jendela tak lelap-lelap
 
 _\*_
