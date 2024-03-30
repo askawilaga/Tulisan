@@ -32,7 +32,7 @@ jangan menangis jangan
 dalam sesak ingin berteriak  
 jangan pergi jangan
 
-fertival berakhir sudah  
+festival berakhir sudah  
 aku baru menyadari  
 sama seperti yang lalu malam tak berubah  
 tapi kau lebih berwarna kali ini  
