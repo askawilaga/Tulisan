@@ -8,6 +8,7 @@ date: 2022-03-13
 
 # Berlari
 
+berlarilah ayo berlari  
 mencari  
 melompati kaki sendiri  
 lumpur terpijak
